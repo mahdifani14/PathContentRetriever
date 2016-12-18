@@ -4,7 +4,7 @@
   "description": "The function retrieves the content of a directory.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/**"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
