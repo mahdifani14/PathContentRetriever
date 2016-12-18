@@ -1,0 +1,29 @@
+{
+  "name": "content-retriever",
+  "version": "1.0.2",
+  "description": "The function retrieves the content of a directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdifani14/PathContentRetriever.git"
+  },
+  "keywords": [
+    "path",
+    "content",
+    "retrieve"
+  ],
+  "author": "Mahdi Fani-Disfani <mahdifani1369@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahdifani14/PathContentRetriever/issues"
+  },
+  "homepage": "https://github.com/mahdifani14/PathContentRetriever#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.6"
+  }
+}
